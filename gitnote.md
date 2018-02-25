@@ -10,3 +10,5 @@ These are my notes on Git.
 ---
 
 ### Tracking Changes
+
+Now what...
